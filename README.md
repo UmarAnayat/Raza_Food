@@ -31,7 +31,7 @@ Stock, sales, suppliers, and a daily dashboard — designed for real shop floors
 
 ### The Idea
 
-> A drinks shop doesn’t pause for bad internet.  
+> A drinks shop doesn't pause for bad internet.  
 > This app was built for that reality.
 
 **Raza Food Point** is a focused inventory system for beverage retailers.  
@@ -105,11 +105,11 @@ Tuned for real retail use
 ### Interface
 
 <p align="center">
-  <img src="screenshots/01.png" width="240" alt="Screen 01"/>
+  <img src="screenshots/screenshot1.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="screenshots/02.png" width="240" alt="Screen 02"/>
+  <img src="screenshots/screenshot2.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="screenshots/03.png" width="240" alt="Screen 03"/>
+  <img src="screenshots/screenshot3.png" width="240" alt="Screen 03"/>
 </p>
 
 <p align="center">
